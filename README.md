@@ -22,12 +22,13 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Build out the project to the designs provided
 
 ### Screenshot
+![image](https://user-images.githubusercontent.com/72587880/228415524-267e2387-ea8f-413e-bdaa-6239b8e752f4.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/Robertron624/profile-card-component)
+- Live Site URL: [Live site URL](https://cute-vacherin-f66fcd.netlify.app/)
 
 ## My process
 
